@@ -1,0 +1,11 @@
+del *.obj
+del *.tds
+del *.ddp
+del *.~*
+del *.bak
+del *.asm
+DEL *.mak
+del *.i*
+del *.brow_pch
+del *.#*
+del *.pch
